@@ -1,0 +1,20 @@
+{
+  "9999999999": {
+    "name": "Test Farmer",
+    "mobile": "9999999999",
+    "village": "A",
+    "mandal": "M",
+    "district": "D",
+    "verified": true,
+    "otp": null
+  },
+  "9876543211": {
+    "name": "Test",
+    "mobile": "9876543211",
+    "village": "Gollapudi",
+    "mandal": "Mylavaram",
+    "district": "NTR",
+    "verified": true,
+    "otp": null
+  }
+}
